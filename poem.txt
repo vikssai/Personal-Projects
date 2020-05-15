@@ -1,6 +1,6 @@
 testign the branching issues that needs to be done 
 this is how 
-to do master way
+to do branch way
 yes
 add many other line to see what happens
 branch line test
